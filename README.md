@@ -1,0 +1,2 @@
+# Logbook-App
+This project looks at the design and development of a digital logbook desktop application. The system will make project assessment easy for lecturers and enable students to keep track of their activities and objectives of the project. For the past year and a half, the world has been plagued by a pandemic and face to face interactions have reduced to curb the spread of the virus. By developing the Digital Logbook, we will enable students to have their project activities, objectives and deliverables supervised and assessed remotely by their supervisors
